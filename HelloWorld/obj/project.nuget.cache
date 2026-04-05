@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CCTsjGTNhMs=",
+  "dgSpecHash": "MCS9JrdFB68=",
   "success": true,
   "projectFilePath": "/Users/sakibkhan/practice/dotnetPractice/HelloWorld/HelloWorld.csproj",
   "expectedPackageFiles": [
     "/Users/sakibkhan/.nuget/packages/microsoft.entityframeworkcore/8.0.0/microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "/Users/sakibkhan/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0/microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "/Users/sakibkhan/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0/microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
+    "/Users/sakibkhan/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.0/microsoft.entityframeworkcore.inmemory.8.0.0.nupkg.sha512",
     "/Users/sakibkhan/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/sakibkhan/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/Users/sakibkhan/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
